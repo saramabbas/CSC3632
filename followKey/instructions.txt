@@ -1,2 +1,8 @@
   This is a very simple key exchange protocol: the client asks for a key, which the server sends, and then then server sends the flag encrypted with that key. 
   It will be easier to complete this challenge if you've already completed the AES challenge (although the encryption parameters might be a bit different ...)
+
+  
+Private Key: MDE1MjAzNjgxNjUw
+  
+Encrypted Packets:
+1ce1380bf7f5adba2cc97e8c89090f19e5fbcbb738e1534fb7df0e393698cd33 186878b58ecee914a90424480a5696ef229afcd76b286fa8cb03f4464204c0bf3f94dfa8e6f7d6a0e6797abf4007cfd5a07253f962ab3aba
